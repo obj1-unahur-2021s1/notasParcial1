@@ -1,7 +1,7 @@
 # Star Wars
 ## Notas del Parcial
 
-|Alumno	| Parcial|
+|Alumno	| Nota|
 |-------------------------------|-------|
 |ACOSTA	MAGALÍ |	10 |
 |ANDREASSI	MARCELO NAHUEL |	9 |
